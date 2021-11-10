@@ -1,0 +1,2 @@
+description=Equipment set mod
+game=flare-game

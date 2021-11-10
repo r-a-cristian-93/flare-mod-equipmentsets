@@ -1,0 +1,13 @@
+APPEND
+
+set_button=60,100,images/menus/buttons/equipment_set_1.png
+set_button=60,130,images/menus/buttons/equipment_set_2.png
+
+# non shared equipped item set 1
+equipment_slot=240,64,ring,1
+equipment_slot=240,112,ring,1
+equipment_slot=240,160,ring,1
+
+# non shared equipped item set 2
+equipment_slot=240,64,ring,2
+equipment_slot=240,112,ring,2
