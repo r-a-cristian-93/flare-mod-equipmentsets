@@ -3,6 +3,10 @@ APPEND
 set_button=60,100,images/menus/buttons/equipment_set_1.png
 set_button=60,130,images/menus/buttons/equipment_set_2.png
 
+set_previous=30,87,images/menus/buttons/up.png
+set_next=30,147,images/menus/buttons/down.png
+label_equipment_set=41,120,center,top
+
 # non shared equipped item set 1
 equipment_slot=240,64,ring,1
 equipment_slot=240,112,ring,1
