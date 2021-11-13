@@ -1,7 +1,7 @@
 APPEND
 
-set_button=60,100,images/menus/buttons/equipment_set_1.png
-set_button=60,130,images/menus/buttons/equipment_set_2.png
+set_button=1,60,100,images/menus/buttons/equipment_set_1.png
+set_button=2,60,130,images/menus/buttons/equipment_set_2.png
 
 set_previous=30,87,images/menus/buttons/up.png
 set_next=30,147,images/menus/buttons/down.png
